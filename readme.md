@@ -17,7 +17,6 @@ It is designed to be a **fast and good raider** and demonstrate new ways of raid
 - ⚙️ Ratelimit bypass 
 - ⭐ Premium system
 
-
 ---
 
 ## 🚀 Usage
@@ -41,5 +40,6 @@ python main.py
 </div>
 
 🔸 It does **not encourage or support malicious activity**.  
+
 
 🔸 Always use responsibly in **controlled environments** such as penetration testing labs or awareness training.   
